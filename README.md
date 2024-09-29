@@ -20,8 +20,14 @@ Running first time will take time to load tensors.
 
 Currently, I could test for images with very less data as Colab GPU Memory limit is a constraint.
 
-For example:
+### For example:
 
+#### Input Image (op1)
 
+![Input Image 1](https://github.com/username/repo/blob/main/path/to/op1.jpg)
+
+#### Output Image (op2)
+
+![Output Image 1](https://github.com/username/repo/blob/main/path/to/op2.jpg)
 
 
