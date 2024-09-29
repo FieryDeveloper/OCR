@@ -24,10 +24,10 @@ Currently, I could test for images with very less data as Colab GPU Memory limit
 
 #### Input Image (op1)
 
-![Input Image 1]([https://github.com/username/repo/blob/main/path/to/op1.jpg](https://github.com/FieryDeveloper/OCR/blob/main/op1.png))
+![Input Image 1]((https://github.com/FieryDeveloper/OCR/blob/main/op1.png))
 
 #### Output Image (op2)
 
-![Output Image 1]([https://github.com/username/repo/blob/main/path/to/op2.jpg](https://github.com/FieryDeveloper/OCR/blob/main/op2.jpg))
+![Output Image 1]((https://github.com/FieryDeveloper/OCR/blob/main/op2.png))
 
 
