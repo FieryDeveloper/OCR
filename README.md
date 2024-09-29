@@ -8,12 +8,17 @@
 If you want to run on local ,Create folder OCR, then create virtual env using command: python -m venv ocr_env
 Then to activate it:
 
-cd ocr_env
-cd Scripts
-activate
+cd ocr_env  
 
-Then go back to the OCR folder directory. You can just type ( cd .. ) to go to pwd.
-Now you can install requirements using pip install -r requirements.txt
+cd Scripts  
+
+activate  
+
+
+Then go back to the OCR folder directory. You can just type ( cd .. ) to go to pwd.  
+
+Now you can install requirements using pip install -r requirements.txt  
+
 Then you can run the app.py using streamlit run app.py
 
 Running first time will take time to load tensors.
